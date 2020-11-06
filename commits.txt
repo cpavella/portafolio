@@ -1,0 +1,11 @@
+commit 9eed611e0172029888240fc23ed4f112b551f7e1
+Author: Patricia Avella <cpavella@gmail.com>
+Date:   Fri Nov 6 15:46:02 2020 -0500
+
+    Adiciona nombre y foto
+
+commit 1b5b6f27ce9878db1c2c5cfc29b0a3bec5403515
+Author: Patricia Avella <cpavella@gmail.com>
+Date:   Fri Nov 6 15:35:16 2020 -0500
+
+    portafolio original
